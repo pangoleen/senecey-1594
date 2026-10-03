@@ -1,0 +1,138 @@
+BnF, Cinq Cents de Colbert 33, f. 575r-v (Gallica btv1b10033958p, views 582-583)
+Claude de Bauffremont, baron de Senecey, to president Jeannin. Rome, 15 March 1594. Original.
+
+Conventions
+  Plain type    = clear text of the letter (my reading of the secretary hand; single pass).
+  [[ ... ]]     = text in cipher, deciphered here (two transcription passes; see NOTES.md).
+                  Twenty-four of the 1,056 signs are resolved by context, not by shape (NOTES.md, Open points).
+  [x]           = letters I supply (lost in the gutter of f. 575v, or left out by the writer).
+  (?)           = doubt. The list of doubts is at the end.
+  Word division, capitals, apostrophes and punctuation are mine. The spelling is the writer's.
+
+------------------------------------------------------------------------------------------
+FRENCH TEXT
+------------------------------------------------------------------------------------------
+
+[f. 575r]
+Monsieur, Je vous ay par tant de fois faict scavoir l'estat de ceste cour, en laquelle je ne
+recongnois encores aulcung changement, que je tiens qu'avez maintenant pris quelque resolution.
+Car de se former imaginairement vaines esperances, c'est se tromper. L'on a faict cougnoistre le
+mal a ceulx desquelz l'on desireroit les remedes, mais il n'y a plus mauvais sourd que celluy qui
+ne veult entendre. En fin, voyant que les affaires, ce me semble, pressent, j'ay faict un discours
+au Pape, le plus preignant que j'ay peu, de noz maulx, luy disant librement que nous ne les
+pouvions plus suporter; qu'il y avoit trois moyens de nous en delivrer. Le premier, et plus desiré
+par Monseigneur du Mayene et de grand nombre de gens de bien, estoit la ruyne de noz ennemis, a
+laquelle nous treuvions plusieurs difficultez, veu les peus puissans secours qui nous avoient esté
+donés jusques a cest heure. Que sy Sa Sainteté jugeoit estre a propos que Monseigneur employast le
+reste de ses amys et sa vye, qu'il ne desiroit un tombeau plus honorable que celluy qui luy estoit
+preparé en un cham de bataille, combatant pour la gloire de Dieu et execution des commandemens de
+Sa Sainteté; mais que sa perte certaine, et par consequant celle de la religion en France, seroit
+peu profitables a ceulx qui en auroient esté cause. Qu'il estoit besoing de faire veoir clair a un
+chacun en la prosperité de nostre cause; qu'il n'y avoit meilleur moyen de contenir les affections
+que de puissans et promps secours, adjoustant a ceulx d'Espagne (que l'on estimoit plus grandz que
+du passé) les saintes benedictions de Sa Beatitude et quelques millions de ses moyens. Ce que ne
+se pouvant, tous les catholicques auroient recours au second moyen, desiré le plus communement,
+
+[[ [qui] estoict qu'il plust a Sa Sainctete entreprandre la pacification generalle de toute la
+crestiente, aportant par son autorit[e] a la France les seurtes requises a la religion
+catholicque, a ceulx qui l'ont maintenue, et particulierement a Monseigneur les marques honorables
+que ses travaulx ont justement merite. A quoy facillement Sa Sainctete parviendroict, anvoyant
+quelque legat sur les lieux, assiste des cardinaulx francois; car ceste bonne intantion seroit
+suivye et ambrasee de tous les catholicques en general, non moings par ceulx qui assistent ]]
+le fin (?), lesquelz redoubtent aultant [[ son establissement par la force que ceulx de l'Union, ]]
+craignantz les ungs et les aultres, [[ cela avenant (que Dieu ne veuille), qu'il n'usast ou
+abusast de la religion ainsy qu'il luy plairoit. ]] Que sy
+
+[f. 575v]
+l'ung de ses deux moyens ne sortent effect promptement, il estoit indubitable que [[ chacung
+panseroit particulierement a ses afaire[s] (?), ]] estantz les grandes [[ villes qui depanden[t]
+d'elles mesmes si lasses et ruynees qu'elles trai[c]teront avec ledict Navarre, et ]] celles qui
+sont [[ commande[es] par gouverneurs et garnisons, ]] ne treuvant plus les moyens [[ d'entretenir
+leurs soldatz, feront le mesme, ]] ayant [[ ledict Navarre les bras ouvers ]] pour recepvoir les
+[[ peuples et les mains larges ]] a doner de grandes recompences aux [[ gouverneurs et
+particuliers qui luy portent de bonnes places. ]] Ce qui ne s'est ja que trop veu et praticqué,
+et en feront chacun de mesme, sy [[ entierement l'on avoit pe[r]du l'esperance que Sa Sainctete ]]
+se laissast conduyre [a] embrasser ladicte [[ pacification, s'estans les gen[s] de bien retenus
+jusques ]] a cest heure pour le desir [[ qu'[il]z ont de sortir ]] de ce mauvais affaire [[ avec
+l'autorite d[e] sadicte Sainctete et seurtte (?) de la religion c[at]holicque. ]]
+
+Vous vous servirez de ce discours suivant l'estat auquel ceste treuvera les afaires, et an amy;
+car il sera tousjours facille, veu (?) l'inclination de ceste court, a le faire reusir a parolles.
+Il m'a commandé luy donner par escript, dont je ne feray dificulté, n'y ayant rien indigne d'ung
+serviteur de Monseigneur, francois et catholique. Sy vous estes sages, bien vous an prandra, et,
+comme dict le proverbe, voz anfans an vaudront mieux. Au reste, Monsieur, j'ay esté averty a ce
+lieu (?) de la mort de Monsieur de Candalles. Me confiant aus bonnes vollontes de Monseigneur,
+j'ay supplié le Pape de pourveoir mon second filz de l'abaye de Fontenay; il me l'a acordé. Je ne
+laisse, atandant les lettres de recommandation de M[onseigneur], de faire lever les bulles. Je luy
+an escrips, et vous supplie humblement faire qu'elles me soyent anvoyees. Monsieur Renould (?) est
+mon banquyer. Je demeureray, Monsieur, sans jamais changer, vostre fidelle serviteur [signature].
+A Rome, ce 15e mars 1594.
+
+------------------------------------------------------------------------------------------
+ENGLISH TRANSLATION
+------------------------------------------------------------------------------------------
+
+Sir, I have told you so many times how things stand at this court, where I still see no change,
+that I think you have by now taken some decision. To build empty hopes in the mind is to deceive
+oneself. We have shown the illness to those from whom we want the cure, but none is so deaf as he
+who will not hear. At last, because I think affairs press, I gave the Pope the strongest account
+I could of our ills. I told him freely that we could bear them no longer, and that there were
+three ways to free us. The first, the one most wanted by my lord of Mayenne and by many good men,
+was the ruin of our enemies. We found many difficulties in it, given the weak help that we have
+had until now. If His Holiness thought it right that my lord should spend the rest of his friends
+and his life, he wished for no more honourable tomb than the one made ready for him on a
+battlefield, fighting for the glory of God and to carry out the commands of His Holiness. But his
+certain loss, and with it the loss of religion in France, would bring little profit to those who
+caused it. Everyone had to be shown clearly that our cause prospered. Nothing would hold men's
+loyalty better than strong and quick help, with the holy blessings of His Beatitude and some
+millions of his money added to the help of Spain (which was thought larger than before). If that
+could not be done, all the Catholics would turn to the second way, the one most commonly wanted:
+
+[[ that His Holiness should be pleased to take in hand the general pacification of all
+Christendom, and by his authority bring to France the securities that are needed for the Catholic
+religion and for those who have upheld it, and in particular bring to my lord the honourable marks
+that his labours have justly earned. His Holiness would reach this easily if he sent a legate to
+the place, assisted by the French cardinals. This good intention would be followed and embraced by
+all the Catholics in general, and no less by those who attend ]] "le fin" (?) [by the sense, Henri
+of Navarre], who fear [[ his establishment by force as much as those of the Union do, ]] because
+both sides fear [[ that, if this came to pass (which God forbid), he would use or abuse religion
+as he pleased. ]] And if
+
+neither of these two ways took effect quickly, it was beyond doubt that [[ each man would think
+of his own affairs. ]] The great [[ towns that depend on themselves are so weary and ruined that
+they will treat with the said Navarre; and ]] those that are [[ commanded by governors and
+garrisons, ]] who no longer find the means [[ to keep their soldiers, will do the same; ]] for
+[[ the said Navarre has his arms open ]] to receive the [[ peoples, and his hands wide ]] to give
+large rewards to the [[ governors and private men who bring him good strongholds. ]] This has
+been seen and done only too often already, and every man will do the same if [[ the hope were
+wholly lost that His Holiness ]] would let himself be led to embrace the said [[ pacification.
+The good men have held back until ]] now because they wish [[ to come out ]] of this bad
+business [[ with the authority of His said Holiness and security for the Catholic religion. ]]
+
+You will use this account as the state of affairs requires when this letter arrives, and as a
+friend. Given the bent of this court, it will always be easy to make it succeed in words. He [the
+Pope] ordered me to give it to him in writing. I shall make no difficulty, because it holds
+nothing unworthy of a servant of my lord, a Frenchman and a Catholic. If you are wise, good will
+come to you of it and, as the proverb says, your children will be the better for it. For the
+rest, Sir, I have been told here of the death of Monsieur de Candale. I trust in my lord's good
+will, and I have asked the Pope to give my second son the abbey of Fontenay. He has granted it. I
+go on to have the bulls drawn while I wait for my lord's letters of recommendation. I write to
+him about them, and I humbly ask you to see that they are sent to me. Monsieur Renould (?) is my
+banker. I remain, Sir, without ever changing, your faithful servant. Rome, 15 March 1594.
+
+------------------------------------------------------------------------------------------
+DOUBTS
+------------------------------------------------------------------------------------------
+See NOTES.md, section "Open points", for the sign-level list.
+1. "le fin" (f. 575r, clear word in cipher line 12). I read f-i-n. The sense needs the name of
+   Henri of Navarre ("ledict Navarre" comes later). It can be a cover word. Not resolved.
+2. "[qui] estoict": the cipher starts at "estoict". The relative is not written.
+3. "autorita la France": the cipher has a-u-t-o-r-i-t-a-l-a. One a serves for "-e" and for "a".
+4. "afaire[s]": the last sign reads r in pass A (afairer). An s sign is expected.
+5. "mesmes" (f. 575v line 4): a T-like stroke is joined to the sign for m. I take it as a pen flourish.
+6. "seurtte": one t sign or two (seurte or seurtte).
+7. Eight line ends of f. 575v are in the gutter of the binding. One or two signs are lost at each:
+   depanden[t], trai[c]teront, commande[es], mesme, pe[r]du, gen[s], qu[il]z, d[e], c[at]holicque.
+   The sense restores them.
+8. Clear text: "veu (?)", "lieu (?)", "Renould (?)", "sages" are single-pass readings of the
+   secretary hand.

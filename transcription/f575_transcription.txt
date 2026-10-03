@@ -1,0 +1,119 @@
+BnF, Cinq Cents de Colbert 33, f. 575r-v (Gallica btv1b10033958p, views 582 and 583)
+Senecey to president Jeannin, Rome, 15 March 1594. Transcription of the cipher lines.
+
+How to read this file
+  - One block per manuscript line. Line 1 of a block: the signs, as tokens (names in sign_inventory.md).
+    Line 2: the letters that the key in key.py gives, with no word division.
+  - "words in quotes" are clear French words that stand in the line. They are a single-pass reading.
+  - token?   = doubtful sign (listed in NOTES.md, "Open points"). The value shown is the one I chose.
+  - ?        = sign that I cannot name.   [blot] = deleted or blotted sign.   [flourish] = pen flourish, no value.
+  - [gutter] = the line runs into the binding; one or two signs are lost.
+  - rLnn = f. 575r, cipher line nn (16 lines, after 17 clear lines).  vLnn = f. 575v, line nn of the page.
+  - r00 and v01 are clear lines, given for the join with the cipher.
+  - Two passes were made. Pass A is mine. Pass B is blind (passB.txt). This file is pass A after I looked again
+    at every place where the passes differ. Agreement before adjudication: 1,008 of 1,056 signs (95.5 %).
+
+r00: "Ce que ne se pouvant Tous les Catholicques auroient recours au second moyen desire le plus Communement"
+     = «Ce que ne se pouvant Tous les Catholicques auroient recours au second moyen desire le plus Communement»
+
+rL01: 7 phi tt o3 8 sq ubar S rc vt xy acr ll Gc uq tO o- tz o uq II xc psi sq tt 4 ubar eL my nr tO u3 7 eps w II psi q rho 4 ay # acr o sq 8? 3 vt
+      = estoictquilplustasasaincteteentreprandrelapaci(?)fi
+
+rL02: sq o- tt vt b nr g 7 psi eL rho o ay xy my q 4 tO o3 K ubar eL ll o- th w 7 phi ubar xc 4 nr tO my o- acr b rho ubar II psi tt acr o rho
+      = cationgeneralledetoutelacrestienteaportantpar
+
+rL03: uq o3 nr II rc tt b w vt ubar o- ay o 3 w II nr th 7 ll 4 phi uq eL ec rho -o my aa u3 7 S rc 8 aa eL phi II
+      = sonautoritalafrancelesseurtesrequisesa
+
+rL04: xy # 4o 4 xy vt g 10 tl 17 sq o- tt oo o3 xy 10 th S rc 7 o- th 7 rc ay X T K xc ll o3 psi ubar MM o- 8 nr
+      = lareligioncatholicqueaceulxquilontmain
+
+rL05: tt 4 17 Gc eL 4 ubar acr II w tO xc th K ay 8 eL w 4 MM my psi ubar # MM o3 nr uq 7 8 g nr 4 rc rho xy my phi
+      = tenueetparticulierementamonseigneurles
+
+rL06: MM o- w S K my aa oo b nr o3 w o- V xy eL tz T rc 4 aa 7 uq tO rho o- rc o- K ay X lam 17 8 rc phi ubar 7 uo
+      = marqueshonorablesquesestrauaulxoniustem
+
+rL07: eL psi tt MM 7 w [blot] 8 tO my o- S rc b 8x 3 o th xc xy ay 7 MM my nr tO aa II tz # 8 nr th ubar eL tt my acr o-
+      = entmeriteaquoyfacillementsasainctetepa
+
+rL08: w Gc 10 7 psi q rho o3 8 th tO # nr K b 8x o- psi ubar S K 7 ay T rc 4 ll eL g # tO aa Gc w xy 7 uq
+      = ruiendroictanuoyantquelquelegatsurles
+
+rL09: ay 8 7 rc X o- aa tz vt uq tO 4 = eL uq th o- rho q xc nr o- rc xy X 3 rho o nr th o3 xc uq? th o- rho
+      = lieuxassistedescardinaulxfrancois(?)car
+
+rL10: sq 7 aa ubar my V b nr 17 4 10 psi tO o nr ubar vt o3 [blot] 14 uq 4? rho b 8 ubar aa rc vt Gc 8x eL my tt
+      = cestebonneintantionse(?)roitsuiuyeet
+
+rL11: II MM V rho o phi my 7 q eL ubar lam rc uq xy 7 phi th o- ubar oo o3 ll vt th S Gc 4 tz 7 nr g 4 psi my w o-
+      = ambraseedetouslescatholicquesengenera
+
+rL12: ay psi lam 17 MM o3 xc 14 g phi acr II rho th 7 rc xy X S Gc xc o- aa uq 8 tz tO 4 psi ubar "le fin(?)" "lesquelz"
+      = lnonmoingsparceulxquiassistent «le fin(?)»  «lesquelz»
+
+rL13: "redoubtent" "aultant" aa lam psi 7 uq tO o- V ll 8 tz phi 7 MM eL nr ubar acr II u3 xy # 3 lam w th 4
+      = «redoubtent»  «aultant» sonestablissementparlaforce
+
+rL14: S rc 7 th eL rc ay X = 4 ll rc nr xc lam 17 "Craignantz les ungs Et les aultres" th 7 ay o-
+      = queceulxdelunion «Craignantz les ungs Et les aultres» cela
+
+rL15: o rc 7 nr II psi ubar S rc 7 q xc 4 K nr my K 4 rc 8 ll tj my T Gc xc tj psi rc phi II aa tt o3 rc o V ec tz II
+      = auenantquedieuneueuillequilnusastouabusa
+
+rL16: uq tO = 7 tj # u3 4 ay xc g 8 lam nr o 8 psi phi 8x S Gc xc ay tj ec 8x acr ay o 10 w lam 8 ubar "Que sy"
+      = stdelareligionainsyquilluyplairoit «Que sy»
+
+v01: "l'ung de ses deux moyens ne sortent Effect promptement Il Estoit"
+     = «l'ung de ses deux moyens ne sortent Effect promptement Il Estoit»
+
+vL02: "Indubitable que" N9 NoIo xx? oo o-? th rc psi g acr o nr phi 7 w o3 8 ubar acr o w ubar xc th rc xy vt 4 rho my
+      = «Indubitable que» c(?)ha(?)cungpanseroitparticuliere
+
+vL03: MM 4 nr tt o aa eL uq o 3 II xc rho 4 u3? "Estantz les grandes" N9 rc 8 xy ll 7 phi S K xc q 4 acr o 17 q 7 psi [gutter]
+      = mentasesafairer(?) «Estantz les grandes» uillesquidepanden[…]
+
+vL04: tt = eL ay? tj 4 uq MM my phi [flourish] uo 7 uq xc xy o aa tz 7 phi 7 tt w rc 8x nr 4 my phi S rc? 4 tj ay eL uq ubar rho o xc? ? [gutter]
+      = tdel(?)lesmesmesilassesetruyneesqu(?)ellestrai(?)_[…]
+
+vL05: th tt 4 u3 o3 17 ubar o K 4 th tj eL = xc sq ubar nr II rc # w rho my 7 tt "Celles qui sont" th o3 MM uo o nr q 7 [gutter]
+      = cterontauecledictnauarreet «Celles qui sont» commande[…]
+
+vL06: my aa acr? o u3 g lam K rc eL rho nr 4 ec rho phi my tt g o rho nr 8 uq lam 17 phi "ne treuvant plus les"
+      = esp(?)argouuerneursetgarnisons «ne treuvant plus les»
+
+vL07: "moyens" q my 17 tt w eL tO my nr xc rho tj 7 rc u3 phi aa o3 ay = II tt 6oo 3 7 w o3 nr ubar tj 4 MM 7 phi MM eL [gutter]
+      = «moyens» dentretenirleurssoldatzferontlemesme[…]
+
+vL08: "ayant" N9 N9 xy 4 = 8 th tO psi II? rc # w u3 4 tj my phi V w o- phi lam K Gc my rho aa "pour Recepvoir les"
+      = «ayant» ledictna(?)uarrelesbrasouuers «pour Recepvoir les»
+
+vL09: acr 7 Gc eps tj 4 aa 7x tO tj 4 phi MM II 8 psi uq ay o w g my tz "a doner de grandes recompences"
+      = peuplesetlesmainslarges «a doner de grandes recompences»
+
+vL10: "aux" g? lam rc K 7 w nr eL ec rho tz 7 tO acr II w ubar 8 sq ec ay vt 4 rho phi S Gc xc tj rc 8x eps lam rho ubar 4 nr tt
+      = «aux» g(?)ouuerneursetparticuliersquiluyportent
+
+vL11: = 4 V b 17 nr 4 phi acr ay o? th my tz "Ce qui ne s'est Ja que trop veu Et praticque"
+      = debonnespla(?)ces «Ce qui ne s'est Ja que trop veu Et praticque»
+
+vL12: "Et En feront Chun de mesme Sy" my 17 ubar 8 4 w eL MM? 7 nr tO tj o3 psi o rc b xc tt acr my [gutter]
+      = «Et En feront Chun de mesme Sy» entierem(?)entlonauoitpe[…]
+
+vL13: w q rc ay 4 phi acr 7 rho o psi sq 7 S rc eL uq II tz # xc nr th ubar 4 tO my "se Laissast Conduyre [a]"
+      = rdulesperancequesasainctete «se Laissast Conduyre [a]»
+
+vL14: "Embrasser Ladicte" acr N9 o- NoIo sq 8 3 xc th II tO 10 o3 nr NLeo? phi 7 uq tO o nr tz ay 4 uq g? eL psi [gutter]
+      = «Embrasser Ladicte» pacification(?)sestanslesg(?)en[…]
+
+vL15: = my V 10 eL 17 u3 7x tO 4 nr rc aa 10 K aa S Gc my phi "a cest heure pour le desir" NoIo T K [gutter]
+      = debienretenusiusques «a cest heure pour le desir» qu[…]
+
+vL16: 6oo o3 17 tO = 4 phi b w tO 8 rho "de ce mauvais affaire" o-? rc? 7 th tj o- K tO o3 u3 8 tt 4 = [gutter]
+      = zontdesortir «de ce mauvais affaire» a(?)u(?)eclautorited[…]
+
+vL17: phi o- = 8 th ubar my uq II xc nr th tO eL tt 7 4 ubar phi 4 rc w ubar -o? my q eL ay II rho 7 tj 10 g xc? o3 17 sq [gutter]
+      = sadictesaincteteetseurtt(?)edelareligi(?)onc[…]
+
+vL18: oo o3 ay 8 xx? S rc 7 "vous vous servirez de ce discours ..."
+      = holic(?)que «vous vous servirez de ce discours ...»
