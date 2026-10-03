@@ -1,0 +1,260 @@
+BnF, Cinq Cents de Colbert 33, ff. 528r-529v (Gallica btv1b10033958p, views 533, 534, 535)
+Pelissier (agent of the duke of Mayenne) to cardinal de Joyeuse. Madrid, 13 February 1594. Original.
+
+Conventions
+  Plain type    = clear text of the letter (my reading of the italic hand; single pass).
+  [[ ... ]]     = text in cipher, deciphered here (pass A; a blind pass B measures the error; see NOTES.md).
+  [x]           = letters I supply (lost in the gutter of the binding, or left out by the writer).
+  (?)           = doubt. The list of doubts is at the end.
+  Word division, capitals, apostrophes and punctuation are mine. The spelling is the writer's.
+  Cover names in the cipher (my identifications, from the sense): Rubi = the king of Spain;
+  Hipolite = the duke of Guise; le Fin = Henri of Navarre; Safir = the Pope; Phare = probably the
+  duke of Lorraine. "Monseigneur" = the duke of Mayenne (clear).
+
+------------------------------------------------------------------------------------------
+FRENCH TEXT
+------------------------------------------------------------------------------------------
+
+[f. 528r]
+Selon qu'il vous a esté cy devant escript, [[ nous nous sommes arrestes sur la proposition faicte
+par les ministres de Rubi en faveur de Hipolite, et feict ]] toutes les instances possibles a ce
+qu'il luy pleust declarer son intention [[ sur icelle, et pourveoir aux moyens et fortes (?)
+necessaires pour la faire reussir a ]] son contentement, seurté de la religion, bien et repos de
+la France. Mais estant a presuposer qu'elle estoit advertie par quelqu'un de ses ministres [[ a
+qui l[e] sieur l-u-d-e-m-i-c-d-o-c-?-i (?) avoit communiqué les aultres ouvertures qui luy
+debvoient ]] estre faictes avant nostre arrivee par deca, elle ne s'est [[ voulu laiss[er]
+entendre en sorte quelconque, ains a faict dire par ]] don Joan de Idiaques que le moyen de
+pourveoir plus promptement a ce qui estoit expedient pour le bien des affaires estoit [[ de ne
+rien cacher; et, si Monseigneur n'avoit envoyé par deca que pour scavoir son intention sur ce qui
+avoit esté proposé pour Hipolite, ]] qu'il y avoit peu de subiect, veu qu'une lettre suffisoit
+pour cela, et ne debvoit l'avoir empesché trois ou quatre moys [[ de prendre sa resolution, comme
+elle eust faict s'il ne l'eust suplié de la retarder jusques a ce qu'il eust ]] envoyé devers
+elle. Que c'estoit un contentement qu'il luy debvoit donner de laisser faire [[ choix a Rubi d'une
+[d]es voyes que luy mesme ]] jugeoit propres et raisonnables. Et comme il s'estoit essayé par
+toutes ses actions de tesmoigner l'affection qu'il portoit a la cause catholique et au
+particulier de Monseigneur, en quoy il s'estoit chargé de haines et envyes et exposé aulx
+calumnies de plusieurs qui n'avoient pareille intention que luy, aussy conseilloit il que [[ l'on
+passast oultre aux aultres ouvertures, sans lesquelles on ne remporteroit rien d[e] ce qui pust ]]
+donner satisfaction. Que le vray moyen de mettre quelque ordre et establissement ausd[ites]
+affaires s'estoit de [[ parler franchement. A quoy ayant esté respondu que ce n'est l'intention de
+Monseigneur de gehenner ou forcer la volunté de Rubi, ]] qu'il n'estoit aussy raisonnable de
+rejetter sur luy la haine du deplaisir [[ que recepvroit Ipolite s[i] on faisoit [...]
+d'ouvertu[r]es (?) en passant par dessus la sienne; (?) elle ]] s'arrestoit a aultre qui luy fust
+agreable; et lors qu'elle se feroit entendre sur icelle, on luy feroit cognoistre [[ qu'il desire
+s'accommoder a tout ce qui luy sera possible avec l'[h]onneur pour luy complaire, ]] pourveu qu'on
+luy fasse veoir clair aulx moyens de [[ conserver la religion et l'estat en son entier, et que le
+consentement et authorité de Safi[r] (?) intervienne aux ]] resolutions qui se prendront. Led[it]
+don Joan de Idiaques a persisté que Sad[ite] Majesté [[ treuveroit mauvais si on se roi[di]t (?)
+d'aventage, et qu'il ne failloit atendre aultre chose d'elle jusques a ce qu'elle eust entendu ]]
+le surplus. Considerant que les longueurs et incertitudes aportent de la defaveur aulx affaires du
+party, et que [[ sans les aydes de Rubi il est impossibl-
+
+[f. 528v]
+e d'empescher l'establissement du Fin, il a esté jugé a propos de declarer les ouvertures ]] que
+Monseigneur a ordonné estre faictes. Premierement, puis qu'elle a voulu [[ tan[t h]onorer la
+maison de Lorraine en general et Hipo[l]ite ]] en particulier que de l'avoir voulu faire [[ nommer
+p[a]r [se]s ministres pour roy de France (?), moyennant le ma[ri]age de luy avec l'Infante sa
+fille (?), ]] qu'il resent cest honneur avec beaucoup d'obligation, et la supplie tres humblement
+vouloir [[ s'a[r]rester a ce conseil, comme ]] celuy qu'il estime plus propre pour le
+contentement [[ des Francoi[s] et pour meint[en]ir ]] la maison de Lorraine en union et concorde.
+Promet de servir de tout son pouvoir [[ e[t] ceder s[i]enn[e] (?), pourveu que Rubi veulle
+e[mp]loyer ]] les forces et moyens necessaires, selon ce qu'ilz luy ont esté representés, pour
+[[ l'establissement d[e] ceste royauté, a la ru[yn]e et confusion ]] des ennemis.
+
+Tesmoigne en second lieu le deplaisir qu'il a receu du [[ re[f]us de la proposition faicte en
+faveur [d]e l'Infante et l'archeduc Ernest; ]] de quoy la faulte n'est [ne] doibt estre
+attribuee [a luy], mays [[ aux ministres de Rubi, qui n'[on]t voullu ]] recepvoir les conseilz
+qu'il leur donnoit d'attendre que [[ nous fu[ss]ions munis de forces pour l'authoriser;
+moyenn[a]nt quoy il se promet qu'elle eust esté ]] accep[tee]. Qu'elle peult croire que s'estoit
+son intention, recognoissant asses que, plus me[...] [[ elle (?) eust esté interessee en nos
+affaires, tan[t] plu[s] librement y eust elle ]] employé ses moyens. Que pour confirmation de ce,
+si ce n'est son intention [[ d'efectuer ce qui a e[sté] offert pour Hipolite, il desireroit que
+Ru[bi] voulust accepter la couronne d[e] France pour s[oy et ses s]uccesseurs, la rendant
+inseparable d'avec [c]el[le] d'Espaigne, et obligeant des a present son oi[r (?) ...] cou[ronne]
+(?) et [...] de ses estat[z] a la manutention ]] de l'une cou[ronne et] de l'aultre. Sur quoy
+toutes les difficultés qui y peuvent intervenir ont esté remo[nstrees]; lesquelles bien poisees,
+si elle les treuvoit trop grandes et ne se vouloit [[ ar[re]ster a ceste ouverture, Monseigneur
+la suplie considerer que le refus faict de celle de l'Infan[te] avec l'archeduc Ernest, et ce qui
+avoit depuis est[é pr]oposé en faveur de Hipolite, la rendoit ]] impossible, au moins tres
+difficile. Et neantmoins, si elle jugeoit par sa pruden[ce] que [[ l'on [y] peust retourner, et
+qu'elle voul[us]t employer la despence pour y parvenir, qu'il y [ser]vira fidelement, pourveu
+qu'on contente (H)ip[ol]ite [p]ar aultre alliance et reconpence [qui] luy puisse faire oublier
+la grandeur ]] qu'[il] a esperé.
+
+Si toute[s] ses voyes ne luy sembloient propres, qu'a son advis [[ Phare [se]roit celuy qui avec
+plus de facilité pourroit e[s]tre apelé a ceste grandeur, parce qu'estant che[f de] sa mans[io]n
+(?), ]] il seroit sans difficulté assisté de tous les siens et
+
+[f. 529r]
+recogneu [[ parmy les Francois prince plain d'equi[té et] justice; ilz l'auroient agreable,
+pourveu que Rubi ]] fist demonstration de le vouloir assister. Aussy qu'ayant [[ un estat si
+[gran]d (?) qu'il [en] tireroit quelques ]] moyens, et de l'assistance de ses alliés et voisins,
+desquelz il est fort aymé, on auroit [[ asseurance d'un bon succes en ceste entreprinse.
+
+A laquelle ]] si pour quelques respectz elle ne vouloit entendre, je la suplie tres humblement ne
+treuver mauvais qu'avec [[ modestie il luy declare pour derniere proposi[ti]on que ]] ses
+travaulx, et ce qu'il pense s'estre acquis de merite [[ enver[s] la France et Rubi, a laquelle il
+desire servir et obeir ]] sur toutes choses, ne le doibvent frustrer entierement [[ de pretendre
+a ce grade. Et si elle le vouloit tant obliger [qu]e [de] l'y assi[s]ter avec les mesmes forces
+et moyens qu'elle ]] vouldroit employer et seroient necessaires si [[ elle [y] prenoit interes[t]
+en son particulier, il croit que l-i-b-e-r-a-u-x (?) ]] consentiroient voluntiers, pour estre
+desia coustumiers de [[ recepvoir toutz commandemens de luy, et les bienfaictz qui dependent de
+la couronne de France de ]] sa main et liberalité. Suplie neantmoins Sa Majesté croire qu'en
+[[ ceste [d]eman[de] il n'est poulsé de passion ne ambition demesuree, et ]] qu'il n'aura aultre
+volunté que la sienne, laquelle, fortifiee de l'authorité de Sa Sainteté [[ et des moyens
+necessaires pour l'establissement des resolutions qui seront prinses, ]] il suyvra de poinct en
+poinct sans y contrevenir en sorte quelconque.
+
+Apres lesquelles [[ ouvertures, il a esté dict que, si nulles [d']icelles agreoit a Rubi ]] avec
+les conditions y apposees, il sembloit n'y avoir plus aultre [[ remede que [d]e recognoistre le
+Fin, apointant avec luy soubz l'authorité de Safir, et essayant avec les s-e-c-c-g (?) asseurs
+(?), Rubi et tout[z] les potentatz, d'asseurer la religion et l'e[st]at (?) avec luy; ]] chose
+qui se juge par gens sages et sans passion faisable, mesme que l'on treuveroit moyen qu'il fust
+satisfaict aulx interestz particuliers de Sa Majesté Catholique, renouvelant les traictés
+d'alliance faictz entre les couronnes de France et d'Espaigne.
+
+Aujourd'huy don Joan de Idiaques a faict responce sur tout ce que dessus: que Sa Majesté avoit
+tout veu, et apres plusieurs considerations jugé n'estre raisonnable de prendre sa resolution sans
+en conferer avec Sa Sainteté et prendre sa benediction sur icelle, attendu mesmement que jusques a
+present ilz s'estoient si fort unis en une mesme volunté qu'ilz avoient tousiours eu mesme but, et
+qu'elle vouloit
+
+[f. 529v]
+faire le mesme a l'advenir; qui estoit aussy ce que Monseigneur desiroit. Et pour ce que ses
+allees et venues demandoient du temps, Sa Majesté avoit faict plusieurs depesches en Flandres a ce
+qu'il fust assisté des forces et moyens qui y sont, pour empescher que rien n'empire au party et
+que l'ennemy ne fasse aucun progres d'importance; qu'il y depeschera encores et donnera aultres
+provisions et ordres pour subsister cy apres, en atendant que les resolutions se prenent
+entierement. Cependant qu'on vous pourroit donner advis de l'estat ou demeurent les affaires, afin
+que, communiquant avec l'ambassadeur de Sa Majesté a Rome, vous fissies instance en commun envers
+Sa Sainteté de la voye qui sera jugee plus propre. C'est tout l'advancement qui c'est peu donner
+jusques a present, [[ g-u-a-e [...]ant (?) l'ordre qui estoit raisonnable pour le
+con[...]tentement de (H)ipolite. ]] Vous adjousteres, s'il vous plait, a [ce] discours vos
+prudens conseilz pour choisir le chemin que jugeres plus a propos pour [le] salut commun, et nous
+feres ce bien de nous faire scavoir au plustost ce que recognoistres des inclinations de dela,
+ausquelles nous croyons qu'on se conformera. [[ Il ne [se]mble (?) n'estre a propos que M.
+d['Orb]ais (?) prenne part en ce que dessus; auss[y] avons nous re[qu]is ]] qu'il soit mandé a
+l'ambassadeur de ne luy en rien dire. A [...] Madrid, ce 13 febvrier 1594. [paraph and signature,
+read "Dupta" (?)]
+
+------------------------------------------------------------------------------------------
+ENGLISH TRANSLATION
+------------------------------------------------------------------------------------------
+
+As you were told before, [[ we held to the proposal that the ministers of Rubi [Spain] made in
+favour of Hipolite [Guise], and made ]] every possible request that he [the King] should declare
+his intention [[ on it and provide the means and forces needed to make it succeed, to ]] his
+satisfaction and for the safety of religion and the good and peace of France. But we must suppose
+that one of his ministers had told him [[ that a certain person (name not read) had disclosed the
+other proposals that were to ]] be made before we arrived here. So he [[ would not let himself be
+understood in any way. He had ]] Don Juan de Idiáquez say that the way to provide quickly for the
+good of affairs was [[ to hide nothing; and that, if my lord [Mayenne] had sent here only to learn
+his intention on what was proposed for Hipolite, ]] there was little reason for it, because a
+letter was enough, and it should not have kept him three or four months [[ from his decision,
+which he would have taken if my lord had not begged him to delay until he had ]] sent to him. It
+was a satisfaction that my lord owed him to let [[ Rubi choose one of the ways that he himself ]]
+judged fit and reasonable. Idiáquez said that he had tried in all his actions to show his
+affection for the Catholic cause and for my lord, and had drawn hatred, envy and slander on
+himself for it; so he advised that [[ we go on to the other proposals, without which we would
+take away nothing that could ]] give satisfaction. The true way to put some order in these affairs
+was [[ to speak frankly. We answered that it is not my lord's intention to constrain or force the
+will of Rubi, ]] but that it was not reasonable either to throw on my lord the hatred for the
+displeasure [[ that Hipolite would feel if proposals were made (?) that passed over his own, ]] if
+the King settled on another that pleased him; and that, when the King made himself understood on
+it, he would be shown [[ that my lord wishes to comply with all that is possible for him with
+honour, to please him, ]] provided he is shown clearly the means to [[ preserve religion and the
+state whole, and that the consent and authority of Safir [the Pope] (?) come into the ]]
+decisions that are taken. Don Juan de Idiáquez insisted that His Majesty [[ would take it ill if
+we held out (?) longer, and that nothing else was to be expected from him until he had heard ]]
+the rest. Because delay and doubt bring disfavour on the affairs of the party, and because
+[[ without the help of Rubi it is impossible to prevent the establishment of the Fin [Navarre],
+it was judged right to declare the proposals ]] that my lord ordered to be made.
+
+First: since the King wished [[ to honour the house of Lorraine in general and Hipolite ]] in
+particular so far as to have him [[ named by his ministers for king of France, by means of his
+marriage with the Infanta his daughter (?), ]] my lord feels this honour with much obligation and
+humbly begs him to [[ keep to this counsel, as ]] the one he thinks most fit to content [[ the
+French and to keep ]] the house of Lorraine in union and concord. He promises to serve with all
+his power [[ and to yield his own claim (?), provided Rubi will use ]] the forces and means that
+are needed, as they were set out to him, for [[ the establishment of this kingship, to the ruin
+and confusion ]] of the enemies.
+
+Second: he declares his displeasure at [[ the refusal of the proposal made in favour of the
+Infanta and the archduke Ernest. ]] The fault is not his, but [[ that of the ministers of Rubi,
+who would not ]] take his advice to wait until [[ we had forces to support it; with that, he is
+sure it would have been ]] accepted. The King can believe that this was his intention, for he
+knows well that the more [[ the King was engaged in our affairs, the more freely he would ]]
+spend his means. To confirm this: if the King does not intend [[ to carry out what was offered for
+Hipolite, my lord would wish that Rubi accept the crown of France for himself and his successors,
+make it inseparable from that of Spain, and bind his heir (?) and his states from now on to
+uphold ]] the one crown and the other. All the difficulties that can arise in this were set out.
+If, when he has weighed them, the King finds them too great and will not [[ settle on this
+proposal, my lord begs him to consider that the refusal of the proposal for the Infanta with the
+archduke Ernest, and what was since proposed in favour of Hipolite, made it ]] impossible, or at
+least very difficult. Yet if the King judged in his prudence that [[ it could be taken up again,
+and would bear the cost to reach it, my lord will serve in it faithfully, provided Hipolite is
+satisfied by another alliance and reward that can make him forget the greatness ]] he hoped for.
+
+If none of these ways seemed fit, then in my lord's opinion [[ Phare would be the man who could
+most easily be called to this greatness, because, as head of his house (?), ]] he would be helped
+without difficulty by all his kin and [[ be recognised among the French as a prince full of equity
+and justice. They would accept him, provided Rubi ]] showed that he would support him. Also, since
+he has [[ so large (?) a state that he would draw some ]] means from it, and help from his allies
+and neighbours, who love him well, there would be [[ assurance of success in this undertaking.
+
+If ]] for some reasons the King would not hear of this, I humbly beg him not to take it ill that
+[[ with modesty my lord declares to him, as a last proposal, that ]] his labours, and the merit
+he thinks he has earned [[ with France and with Rubi, whom he wishes to serve and obey ]] above
+all things, should not wholly shut him out [[ from claiming this rank. If the King would so far
+oblige him as to support him in it with the same forces and means that he ]] would use, and that
+would be needed, if [[ he took a personal interest, my lord believes that (word not read) ]]
+would consent willingly, because they are already used [[ to take all commands from him, and the
+favours that depend on the crown of France from ]] his hand and bounty. He begs His Majesty to
+believe that in [[ this request he is not driven by passion or boundless ambition, and ]] that he
+will have no will but the King's; and, when it is strengthened by the authority of His Holiness
+[[ and by the means needed to establish the decisions that are taken, ]] he will follow it point
+by point and not go against it in any way.
+
+After these [[ proposals, it was said that, if none of them pleased Rubi ]] with their
+conditions, there seemed to be no other [[ remedy than to recognise the Fin and come to terms with
+him under the authority of Safir, and to try, with (words not read), Rubi and all the powers, to
+secure religion and the state (?) with him; ]] a thing that wise men without passion judge
+possible. A way would even be found to satisfy the private interests of His Catholic Majesty, by
+renewing the treaties of alliance between the crowns of France and Spain.
+
+Today Don Juan de Idiáquez answered on all the above. His Majesty had seen everything and, after
+much thought, judged it not reasonable to decide before he had conferred with His Holiness and
+had his blessing on it, the more so because the two had until now been so united in one will that
+they always had the same aim, and he wished to do the same in future; which was also what my lord
+wished. Because these exchanges need time, His Majesty had sent several dispatches to Flanders so
+that my lord should be helped with the forces and means that are there, to keep the party from
+growing weaker and the enemy from any important progress. He will send again and give other
+provisions and orders to hold out until the decisions are fully taken. Meanwhile you could be
+told how affairs stand, so that, together with His Majesty's ambassador in Rome, you press His
+Holiness jointly for the way that is judged most fit. This is all the progress that could be made
+until now, [[ (words not read) the order that was reasonable for the satisfaction of Hipolite. ]]
+Please add your prudent counsel to this account, to choose the road you judge best for the common
+safety, and do us the kindness to let us know as soon as you can what you learn of the leanings
+over there, to which we believe they will conform here. [[ It does not seem fitting that M.
+d'Orbais (?) should have a part in the above; so we have asked ]] that the ambassador be told to
+say nothing of it to him. Madrid, 13 February 1594.
+
+------------------------------------------------------------------------------------------
+DOUBTS
+------------------------------------------------------------------------------------------
+See NOTES.md, section "ff. 528-529", for rates and the sign-level problems.
+1. The cover names are identified from the sense only. Rubi: the period gloss on f. 528r reads
+   "ruby". Hipolite: the period gloss reads "hipolite". Safir, Phare and le Fin have no gloss.
+2. f. 528r lines 8-9: twelve signs after "sieur" give l-u-d-e-m-i-c-d-o-c-?-i. I cannot read a name.
+3. f. 528r line 33: an insertion of about 28 small signs above the line. Only "on faisoit" and
+   "d'ouvertu[r]es" are read.
+4. "fortes" (for "forces"), "francuement" (for "franchement"), "grance" (for "France"),
+   "assieter" (for "assister"), "nemble" (for "ne semble"): one sign in each word reads wrong.
+   The cause can be my transcription or the writer.
+5. The initial of "Hipolite" is written with three different signs (or is absent). Open.
+6. About 40 line ends of f. 528v are in the gutter. One to three signs are lost at each. The
+   letters in square brackets restore them by the sense. "son oi[r ...] cou[...] et [...]" and
+   "plus me[...]" are not restored with confidence.
+7. "sa fille", "ceder s[i]enn[e]", "sa mans[io]n", "si [gran]d", "liberaux", "seccg asseurs",
+   "l'e[st]at", "g-u-a-e ...ant": not resolved. They are given as the signs read.
+8. The clear text had one pass. The signature is not read with confidence.

@@ -1,6 +1,7 @@
 # Control: dictionary coverage of the decoded cipher runs under the true key and under shuffled keys.
 import json,random,re,sys,math,collections
-from key import KEY
+from key import KEY, KEY528
+if any('528' in a for a in sys.argv[1:]): KEY=KEY528
 W=json.load(open('lm/words.json'))
 LEX={w for w,c in W.items() if c>=5 and len(w)>=2 and w.isalpha()}
 MAXL=max(len(w) for w in LEX)
@@ -10,11 +11,10 @@ def runs(path):
         if ln.startswith('#') or ':' not in ln: continue
         body=ln.split(':',1)[1]
         for t in re.findall(r'"[^"]*"|\S+',body):
-            if t.startswith('"') or t=='[gutter]':
+            if t.startswith('"') or t.startswith('['):
                 if t!='[gutter]' and cur: pass
                 # a clear word or a gutter breaks the run only when text is lost
-                if t=='[gutter]': out.append(cur); cur=[]
-                else: out.append(cur); cur=[]
+                out.append(cur); cur=[]
                 continue
             b=t.rstrip('?') or '?'
             cur.append(b)
@@ -52,7 +52,7 @@ import unicodedata
 def norm(t):
     t=unicodedata.normalize('NFD',t.lower()); return ''.join(c for c in t if 'a'<=c<='z')
 try:
-    txt=open('../reading/f575_reading.txt').read().split('FRENCH TEXT')[1].split('ENGLISH TRANSLATION')[0]
+    txt=open('../reading/f528_reading.txt' if any('528' in a for a in sys.argv[1:]) else '../reading/f575_reading.txt').read().split('FRENCH TEXT')[1].split('ENGLISH TRANSLATION')[0]
     clear=re.sub(r'\[\[.*?\]\]',' ',txt,flags=re.S)
     clear=re.sub(r'\[[^\]]*\]|\(\?\)',' ',clear)
     segs=[norm(s) for s in re.split(r'\n\s*\n',clear) if len(norm(s))>40]

@@ -12,7 +12,7 @@ This repository has three kinds of content. Each kind has its own terms.
 
 You may copy, share and adapt the text for any purpose, if you give credit. A suitable credit line is:
 
-> Paolo Rosson with Claude (Anthropic), "Senecey to Jeannin, Rome, 15 March 1594: the cipher read in full", 2026,
+> Paolo Rosson with Claude (Anthropic), "Two League letters of 1594 in the cipher of Colbert 33 f. 530", 2026,
 > https://github.com/pangoleen/senecey-1594
 
 The letter of 1594 and the royal office's alphabet on f. 530 are in the public domain. The licence covers our

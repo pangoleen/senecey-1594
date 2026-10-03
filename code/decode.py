@@ -1,5 +1,7 @@
 import re,sys,collections
-from key import KEY
+from key import KEY, KEY528
+import sys
+if any('528' in a or '529' in a for a in sys.argv[1:]): KEY=KEY528
 def toks(line):
     out=[]; 
     for m in re.finditer(r'"[^"]*"|\S+',line):
