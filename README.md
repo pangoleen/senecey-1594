@@ -64,8 +64,13 @@ Letters in square brackets are lost in the gutter of the binding and are restore
 the crown, the signs for "accepter la couronne de France", "successeurs", "la rendant inseparable" and "d'Espaigne"
 are read; "soy et ses" and "celle" are restored.
 
-The mission to Madrid is known to historians from other sources. We did not compare this letter with the Spanish
-papers (Simancas) or with the literature on that mission.
+The mission to Madrid is known to historians from other sources. A search of the printed literature
+([evidence/print_check_f528.md](evidence/print_check_f528.md)) found no text of this letter. De Thou (book 108)
+knows the question of Guise and the Infanta. Bouillé (*Histoire des ducs de Guise*, iv, 1850, pp. 262-263) quotes
+the clear letter of Montpezat of the same day, from this same volume, to the abbé d'Orbais; this confirms the name
+"M. d'Orbais" in our reading. Historians know one other plan, the crown for Mayenne's son. We did not find the
+offer of the crown to Philip II himself in the literature that we could reach. Not reached: Vázquez de Prada (2004),
+Descimon and Ruiz Ibáñez, and the Simancas papers. So we do not claim that the offer is unknown.
 
 ## The cipher
 
