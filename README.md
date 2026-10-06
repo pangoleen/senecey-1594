@@ -4,6 +4,10 @@ Readings of the cipher passages of two letters of the Catholic League, written i
 before Paris opened its gates to Henri IV. Both use one cipher. The royal office rebuilt its alphabet in 1594, and
 the alphabet is in the same volume (f. 530).
 
+**Part of a larger set.** Nine results of the same project, with a map of every key, reading and image, are in
+[pangoleen/cipher-readings](https://github.com/pangoleen/cipher-readings) (start with its
+[GUIDE.md](https://github.com/pangoleen/cipher-readings/blob/main/GUIDE.md)).
+
 | Letter | Shelfmark | State before | State now |
 |---|---|---|---|
 | Claude de Bauffremont, baron de Senecey, League ambassador in Rome, to president Pierre Jeannin, 15 March 1594 | Paris, BnF, Cinq Cents de Colbert 33, f. 575r-v (Gallica `btv1b10033958p`, views 582-583) | Key known; the first 25 words read | [full reading and translation](reading/f575_reading.txt) |
